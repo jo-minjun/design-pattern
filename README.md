@@ -24,6 +24,13 @@ design-pattern을 공부하기위한 레포지터리
 - 관련있는 여러 객체를 구체 클래스에 의존하지 않고 생성하는 것이 목적이다.
 - [`추상 팩토리 패턴 예제`](src/main/java/example/_1_creational/_3_abstract_factory)
 
+### 빌더 패턴
+![builder](./img/builder.png)
+- 동일한 프로세스를 거쳐 다양한 구성의 인스턴스를 만드는 방법이다.
+- 만들기 복잡한 객체를 만드는 방법을 제공한다.
+- 복잡한 객체를 만드는 과정을 Director를 사용하여 감출 수 있다.
+- [`빌더 패턴 예제`](src/main/java/example/_1_creational/_4_builder)
+
 ## 구조 관련
 
 ## 행동 관련
