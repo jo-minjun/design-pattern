@@ -49,6 +49,11 @@ design-pattern을 공부하기위한 레포지터리
 - [`어댑터 패턴 예제`](src/main/java/example/_2_structural/_1_adapter)
 
 ### 브릿지 패턴
+![adapter](./img/bridge.png)
+- 추상적인 것과 구체적인 것을 분리하여 연결하는 방법이다.
+- 추상적인 코드를 구체적인 코드 변경 없이 독립적으로 확장할 수 있다
+- 계층 구조가 늘어나 복잡도가 증가할 수 있다.
+- [`어댑터 패턴 예제`](src/main/java/example/_2_structural/_2_bridge)
 
 ## 행동 관련
 
